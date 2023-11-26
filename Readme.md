@@ -1,0 +1,1 @@
+Ayo! This is m journey through out the language. Here you can have implementation of typrscript code with exmaples of individual topics while explaining.
